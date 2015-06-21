@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-business-card",
+  "version": "0.0.2",
+  "description": "Business card theme for JSON Resume",
+  "author": "JSON Resume Team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsonresume/jsonresume-theme-business-card"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
